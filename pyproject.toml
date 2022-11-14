@@ -22,8 +22,6 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.10"
-starlette = "^0.20.4"
 gino = "^1.0.1"
 
 [tool.poetry.dev-dependencies]
